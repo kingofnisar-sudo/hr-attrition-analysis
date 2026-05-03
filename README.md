@@ -38,6 +38,7 @@ This project analyzes employee attrition using Python, SQL, and Power BI. The go
 - Python Cleaning: `python/`
 - SQL Queries: `sql/`
 - Power BI Dashboard: `dashboard/`
+- images/dashboard.png
 
 ---
 

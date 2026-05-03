@@ -4,6 +4,8 @@
 ## 🔗 Live Project
 GitHub Repository: https://github.com/kingofnisar-sudo/hr-attrition-analysis
 
+## 📈 Business Problem
+Employee attrition is a major challenge for organizations. This project aims to analyze the key factors influencing employee turnover and help HR teams make data-driven decisions.
 
 ## 📌 Project Overview
 This project analyzes employee attrition using Python, SQL, and Power BI. The goal is to identify key factors influencing employee turnover and provide actionable insights.

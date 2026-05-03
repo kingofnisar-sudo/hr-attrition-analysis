@@ -1,5 +1,10 @@
 # Employee Attrition Analysis | HR Dashboard
 
+
+## 🔗 Live Project
+GitHub Repository: https://github.com/kingofnisar-sudo/hr-attrition-analysis
+
+
 ## 📌 Project Overview
 This project analyzes employee attrition using Python, SQL, and Power BI. The goal is to identify key factors influencing employee turnover and provide actionable insights.
 
